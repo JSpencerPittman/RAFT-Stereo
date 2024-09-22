@@ -1,0 +1,12 @@
+[tool.poetry]
+name = "raft-stero"
+version = "0.1.0"
+description = "MS&T URT MATE 2024 Raft-Stereo"
+authors = ["Jason Pittman <jspencerpittman@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
